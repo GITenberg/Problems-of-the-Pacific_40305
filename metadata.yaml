@@ -1,0 +1,39 @@
+_repo: Problems-of-the-Pacific_40305
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fox, Frank
+    aliases:
+    - Renar, Frank
+    - Fox, Frank, Sir
+    birthdate: 1874
+    deathdate: 1960
+    gutenberg_agent_id: '25216'
+    url: http://www.gutenberg.org/2009/agents/25216
+description: ''
+gutenberg_issued: '2012-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40305'
+  lccn: '12019373'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pacific Ocean'
+- !lcc 'DU'
+- !lcsh 'Eastern question (Far East)'
+- !lcsh 'Competition, International'
+tableOfContents: 'The ocean of the future  -- Russia in the Pacific  -- The rise of
+  Japan  -- China and the teeming millions of Asia  -- The United States: an imperial
+  power  -- Great Britain''s entry into the Pacific  -- The British continent in the
+  Pacific  -- New Zealand and the smaller British Pacific colonies -- The native races
+  -- Latin America -- Canada and the Pacific -- The navies of the Pacific -- The armies
+  of the Pacific -- Treaties in the Pacific -- The Panama Canal -- The industrial
+  position in the Pacific -- Some strategical considerations -- The rivals.'
+title: Problems of the Pacific
+url: http://www.gutenberg.org/ebooks/40305
